@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: signal_ICT_Abhinay_92400133174
+Version: 0.1.0
+Summary: Signal generation and operations package for ICT assignment
+Author-email: Abhinay <abhinaychoudhari.131794@marwadiuniversity.ac.in>
+Project-URL: Homepage,https://github.com/Abhi9182-gif/python.git
+Project-URL: Issues,https://github.com/Abhi9182-gif/python.git
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Dynamic: license-file
+
+# -*- coding: utf-8 -*-
+
+This package contains basic signal generation and operations modules for ICT coursework.
+- unitary_signals.py
+- trigonometric_signals.py
+- operations.py
+- main.py
